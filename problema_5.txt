@@ -1,0 +1,4 @@
+considerando lampadas comuns que emitem calor conforme ficam ligadas, 
+iria ligar o primeiro interruptor e aguardar um tempo, em seguida iria desliga-lo e
+ligar o segundo e ir verificar, a lampada que estiver quente é o primeiro a que estiver
+acesa é o segundo interruptor e a que estiver apagada e fria é o ultimo interruptor.
